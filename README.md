@@ -1,6 +1,6 @@
-Hi, I'm Mark Ian 👋
+#Hi, I'm Mark Ian 👋
 
-                                                                                    Full Stack & Mobile Developer · Founder @ Galaxy · Egypt 🇪🇬
+##Full Stack & Mobile Developer · Founder @ Galaxy · Egypt 🇪🇬
 
 Here are some ideas to get you started:
 
