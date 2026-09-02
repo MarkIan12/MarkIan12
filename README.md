@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi, I'm Mark Ian 👋
 
-<!--
-**MarkIan12/MarkIan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer 
 
 Here are some ideas to get you started:
 
