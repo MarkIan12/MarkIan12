@@ -4,11 +4,11 @@
 
 I’m a Full Stack Developer focused on creating responsive, user-friendly applications with clean backend architecture.
 
-- 🌱 Currently learning: [Technology or topic]
-- 🔭 Working on: [Project name / type]
+- 🌱 Currently seeking for challenging opportunities
+- 🎯 Goal: Building high-impact products with a focus on performance, scalability & UX
 - 💬 Ask me about: JavaScript, PHP, Laravel, React, APIs, SQL
 - 📫 Reach me: iandeveloper0412@gmail.com
-- ⚡ Fun fact: [Something about you]
+- ⚡ Fun fact: 🌙 I code better at night
 
 ---
 
