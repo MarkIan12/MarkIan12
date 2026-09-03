@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mark Ian 👋
 
 ### Full Stack Developer | Building practical, scalable web applications
 
@@ -7,7 +7,7 @@ I’m a Full Stack Developer focused on creating responsive, user-friendly appli
 - 🌱 Currently learning: [Technology or topic]
 - 🔭 Working on: [Project name / type]
 - 💬 Ask me about: JavaScript, PHP, Laravel, React, APIs, SQL
-- 📫 Reach me: [your@email.com]
+- 📫 Reach me: iandeveloper0412@gmail.com
 - ⚡ Fun fact: [Something about you]
 
 ---
